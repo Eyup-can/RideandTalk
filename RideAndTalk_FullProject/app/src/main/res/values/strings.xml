@@ -1,0 +1,13 @@
+
+<resources>
+    <string name="app_name">Ride&Talk</string>
+    <string-array name="vehicles">
+        <item>Scooter</item>
+        <item>Motosiklet</item>
+        <item>ATV</item>
+        <item>Araba</item>
+        <item>Kamyon</item>
+        <item>Tır</item>
+        <item>Diğer</item>
+    </string-array>
+</resources>
